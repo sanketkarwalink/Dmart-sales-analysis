@@ -4,7 +4,7 @@ End-to-end data analysis solution simulating and analyzing DMart's sales trends 
 Highlights the impact of COVID-19 and economic recovery on retail performance via an interactive Excel dashboard.
 
 ### Dashboard Preview  
-![DMart Sales Dashboard](https://github.com/srishtisharma44/DMart-Sales-Trend-Analysis/blob/main/Dashboard.png) 
+![DMart Sales Dashboard](https://github.com/sanketkarwalink/Dmart-sales-analysis/blob/main/Dashboard.png) 
 ---
 
 ## Project Overview  
@@ -72,10 +72,10 @@ A structured progression from synthetic dataset creation to an interactive, deci
 ## Interactive Preview & Dataset  
 
 ### Project Demo Video  
-[Click here to watch the Dashboard Demo](https://github.com/srishtisharma44/DMart-Sales-Trend-Analysis/blob/main/Demo.gif)
+[Click here to watch the Dashboard Demo](https://github.com/sanketkarwalink/Dmart-sales-analysis/blob/main/Demo.gif)
 
 ### Dataset Used  
-[DMart Simulated Sales Dataset (2020–2025)](https://github.com/srishtisharma44/DMart-Sales-Trend-Analysis/blob/main/DMart%20Sales%20Data.xlsx)
+[DMart Simulated Sales Dataset (2020–2025)](https://github.com/sanketkarwalink/Dmart-sales-analysis/blob/main/DMart%20Sales%20Data.xlsx)
 
 ---
 
